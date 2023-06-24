@@ -20,12 +20,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/_Imports.razor]
