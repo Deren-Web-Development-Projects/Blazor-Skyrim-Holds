@@ -1,8 +1,32 @@
 {
   "Files": [
     {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Marker.png",
+      "PackagePath": "staticwebassets/images/Marker.png"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark-white.png",
+      "PackagePath": "staticwebassets/images/github-mark-white.png"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark-white.svg",
+      "PackagePath": "staticwebassets/images/github-mark-white.svg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark.png",
+      "PackagePath": "staticwebassets/images/github-mark.png"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark.svg",
+      "PackagePath": "staticwebassets/images/github-mark.svg"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
