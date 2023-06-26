@@ -9,6 +9,18 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Eastmarch_Wallp.png",
+      "PackagePath": "staticwebassets/images/Holds/Eastmarch_Wallp.png"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Falkreath_Hold.png",
+      "PackagePath": "staticwebassets/images/Holds/Falkreath_Hold.png"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Marker.png",
       "PackagePath": "staticwebassets/images/Marker.png"
     },

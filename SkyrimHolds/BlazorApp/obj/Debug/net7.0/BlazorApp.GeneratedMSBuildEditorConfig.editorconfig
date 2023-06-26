@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Components/HoldComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Ib2xkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Capitals.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FwaXRhbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
