@@ -20,8 +20,28 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Capitals.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FwaXRhbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Creatures.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXR1cmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Dungeons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRHVuZ2VvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Holds.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9sZHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Landmarks.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGFuZG1hcmtzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Shared/Footer.razor]
