@@ -10,4 +10,8 @@
       <None Include="wwwroot\images\Marker.png" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="wwwroot\images\Holds\" />
+    </ItemGroup>
+
 </Project>

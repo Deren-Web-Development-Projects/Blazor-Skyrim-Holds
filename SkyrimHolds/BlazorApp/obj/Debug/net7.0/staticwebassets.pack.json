@@ -1,12 +1,56 @@
 {
   "Files": [
     {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Eastmarch.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-Eastmarch.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Falkreath.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-Falkreath.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Haafingar.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-Haafingar.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Hjaalmarch.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-Hjaalmarch.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-ThePale.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-ThePale.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-TheReach.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-TheReach.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-TheRift.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-TheRift.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Whiterun.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-Whiterun.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Winterhold.jpg",
+      "PackagePath": "staticwebassets/images/Holds/Hold-Winterhold.jpg"
     },
     {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Marker.png",

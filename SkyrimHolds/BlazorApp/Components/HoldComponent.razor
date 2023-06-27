@@ -1,0 +1,24 @@
+
+<div class="card h-100" style="width: 18rem;">
+  <a target="_blank" href="@Hold.HoldImageSRC">
+    <img class="card-img-top" src="@Hold.HoldImageSRC" alt="@Hold.HoldName Image">  
+  </a>
+  <div class="card-body">
+    <h5 class="card-title">@Hold.HoldName</h5>
+    <p class="card-text">@Hold.HoldDesc</p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Region: @Hold.HoldRegion</li>
+    <li class="list-group-item">Capital: <a href="Capitals" class="card-link">@Hold.HoldCapital</a></li>
+  </ul>
+  <div class="card-body">
+    <a href="@Hold.HoldDetailsURL" target="_blank" class="btn btn-primary">Wiki</a>
+    <a class="btn btn-primary" target="_blank" href="@Hold.HoldFandomURL">Fandom</a>
+  </div>
+</div>
+
+@code {
+    [Parameter]
+    public HoldModel Hold { get; set; }
+}
+

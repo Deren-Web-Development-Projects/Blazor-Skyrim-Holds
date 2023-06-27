@@ -1,0 +1,24 @@
+@page "/Holds"
+
+@namespace BlazorApp.Pages.Holds
+
+<div class="container">
+  <div class="jumbotron">
+    <h1>Holds of Skyrim</h1>      
+    <p>These are the nine holds of Skyrim:</p>
+  </div>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    @foreach (HoldModel item in HoldData)
+    {
+      <div class="cardItem mr-auto ml-auto">
+        <HoldComponent Hold="@item"></HoldComponent>  
+      </div>
+    }
+  </div>  
+</div>
+
+
+
