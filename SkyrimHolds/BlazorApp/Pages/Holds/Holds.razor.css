@@ -3,3 +3,9 @@
     background-color: aqua;
     margin-top: 10px;
 }
+
+.cardItem {
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
