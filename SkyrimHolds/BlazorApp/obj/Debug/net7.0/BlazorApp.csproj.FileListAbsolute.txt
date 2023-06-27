@@ -29,3 +29,4 @@
 /Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/ref/BlazorApp.dll
 /Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/Pages/Holds/Holds.razor.rz.scp.css
 /Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css
+/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/Shared/Navbar.razor.rz.scp.css

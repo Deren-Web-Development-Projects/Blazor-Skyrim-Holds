@@ -52,10 +52,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Shared/Navbar.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdmJhci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -63,6 +59,10 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/Holds/Holds.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9sZHMvSG9sZHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4v21z4o3z7
+
+[/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Shared/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6vlijaxr9c
 
 [/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
