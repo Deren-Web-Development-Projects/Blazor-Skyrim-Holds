@@ -1,6 +1,6 @@
 using BlazorApp.Models;
 
-namespace BlazorApp.Pages
+namespace BlazorApp.Pages.Holds
 {
     public partial class Holds
     {

@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },

@@ -1,0 +1,12 @@
+*[b-4v21z4o3z7] {
+    color: red;
+}
+
+.jumbotron[b-4v21z4o3z7] {
+    background-color: aqua;
+    margin-top: 10px;
+}
+
+h1[b-4v21z4o3z7] {
+    color: red;
+}
