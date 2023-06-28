@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0/93ggVRo8CLiIRjqW90Kkjx11d9IbzP/8PEmSMq/wA=",
+  "Hash": "exWXy4ivInWNE0n9EAd2IovR4S5wqdCKcVonR+PNHs0=",
   "Source": "BlazorApp",
   "BasePath": "_content/BlazorApp",
   "Mode": "Default",
@@ -338,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/Marker.png"
+    },
+    {
+      "Identity": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/JumbotronScript.js",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "JumbotronScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/JumbotronScript.js"
     }
   ]
 }

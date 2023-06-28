@@ -1,0 +1,13 @@
+*[b-v401ud9guk] {
+    color: black;
+}
+
+.card[b-v401ud9guk] {
+    width: 20rem;
+    border-color: #BBAA92;
+}
+
+.btn[b-v401ud9guk] {
+    background-color: #648FAD;
+    color: #292B2F;
+}

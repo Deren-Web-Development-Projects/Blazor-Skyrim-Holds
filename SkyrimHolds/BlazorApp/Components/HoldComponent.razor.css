@@ -1,0 +1,13 @@
+* {
+    color: black;
+}
+
+.card {
+    width: 20rem;
+    border-color: #BBAA92;
+}
+
+.btn {
+    background-color: #648FAD;
+    color: #292B2F;
+}

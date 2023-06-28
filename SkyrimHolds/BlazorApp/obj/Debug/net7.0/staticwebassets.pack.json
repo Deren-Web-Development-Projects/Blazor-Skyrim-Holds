@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/JumbotronScript.js",
+      "PackagePath": "staticwebassets/JumbotronScript.js"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

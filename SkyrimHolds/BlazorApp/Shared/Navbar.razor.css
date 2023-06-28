@@ -1,4 +1,7 @@
-* {
-    background-color: #404244;
-    color: #AAC9E2
+.navbar {
+    background-color: #292B2F;
+}
+
+.nav-link, .nav-item {
+    color: #bbaa92 !important;
 }

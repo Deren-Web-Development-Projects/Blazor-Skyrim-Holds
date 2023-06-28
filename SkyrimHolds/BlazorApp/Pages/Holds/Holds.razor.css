@@ -1,7 +1,15 @@
 
-.jumbotron {
-    background-color: aqua;
-    margin-top: 10px;
+* {
+    background-color: #292B2F;
+}
+
+.banner {
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
+
+.jumbo-item {
+    color: #BBAA92;
 }
 
 .cardItem {
