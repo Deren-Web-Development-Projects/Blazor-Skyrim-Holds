@@ -1,0 +1,18 @@
+* {
+    background-color: #292B2F;
+}
+
+.banner {
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
+
+.jumbo-item {
+    color: #BBAA92;
+}
+
+.cardItem {
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

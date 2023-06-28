@@ -1,0 +1,22 @@
+
+<div class="card mb-3 h-100">
+  <div class="row no-gutters">
+    <div class="col-md-4 d-flex justify-content-center align-items-center">
+      <a target="_blank" href="@Capital.CapitalImage">
+        <img src="@Capital.CapitalImage" class="card-img" alt="@Capital.CapitalName">  
+      </a>
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">@Capital.CapitalName, <small class="text-muted"><a href="Holds" class="card-link">@Capital.CapitalHold</a></small></h5>
+        <p class="card-text">@Capital.CapitalDesc</p>
+        <a class="btn" target="_blank" href="@Capital.CapitalLink">Wiki</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+@code {
+    [Parameter]
+    public CapitalModel Capital { get; set; }
+}

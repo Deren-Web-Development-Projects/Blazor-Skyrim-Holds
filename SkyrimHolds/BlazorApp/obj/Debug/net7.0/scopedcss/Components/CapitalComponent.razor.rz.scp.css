@@ -1,0 +1,18 @@
+.btn[b-pcvj70e0mt] {
+    border-color: black;
+    background-color: #648FAD;
+    color: #292B2F;
+}
+
+.card[b-pcvj70e0mt] {
+    background-color: #BBAA92;
+}
+
+.card-link[b-pcvj70e0mt] {
+    color: #292B2F;
+}
+
+.card-link:hover[b-pcvj70e0mt] {
+    text-decoration: underline;
+    color: #648FAD;
+}

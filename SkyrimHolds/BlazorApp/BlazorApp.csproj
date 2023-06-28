@@ -11,6 +11,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Folder Include="wwwroot\images\Capitals\" />
       <Folder Include="wwwroot\images\Holds\" />
     </ItemGroup>
 

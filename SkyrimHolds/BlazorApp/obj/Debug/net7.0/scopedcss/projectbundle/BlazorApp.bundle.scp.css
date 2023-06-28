@@ -1,3 +1,22 @@
+/* _content/BlazorApp/Components/CapitalComponent.razor.rz.scp.css */
+.btn[b-pcvj70e0mt] {
+    border-color: black;
+    background-color: #648FAD;
+    color: #292B2F;
+}
+
+.card[b-pcvj70e0mt] {
+    background-color: #BBAA92;
+}
+
+.card-link[b-pcvj70e0mt] {
+    color: #292B2F;
+}
+
+.card-link:hover[b-pcvj70e0mt] {
+    text-decoration: underline;
+    color: #648FAD;
+}
 /* _content/BlazorApp/Components/Coverpage.razor.rz.scp.css */
 /* _content/BlazorApp/Components/HoldComponent.razor.rz.scp.css */
 *[b-v401ud9guk] {
@@ -12,6 +31,25 @@
 .btn[b-v401ud9guk] {
     background-color: #648FAD;
     color: #292B2F;
+}
+/* _content/BlazorApp/Pages/Capitals/Capitals.razor.rz.scp.css */
+*[b-dfup7ivfyb] {
+    background-color: #292B2F;
+}
+
+.banner[b-dfup7ivfyb] {
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
+
+.jumbo-item[b-dfup7ivfyb] {
+    color: #BBAA92;
+}
+
+.cardItem[b-dfup7ivfyb] {
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 /* _content/BlazorApp/Pages/Holds/Holds.razor.rz.scp.css */
 

@@ -21,6 +21,42 @@
       "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Dawnstar.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Dawnstar.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Falkreath.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Falkreath.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Markarth.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Markarth.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Morthal.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Morthal.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Riften.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Riften.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Solitude.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Solitude.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Whiterun.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Whiterun.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Windhelm.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Windhelm.jpg"
+    },
+    {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Winterhold.jpg",
+      "PackagePath": "staticwebassets/images/Capitals/Winterhold.jpg"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Eastmarch.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-Eastmarch.jpg"
     },

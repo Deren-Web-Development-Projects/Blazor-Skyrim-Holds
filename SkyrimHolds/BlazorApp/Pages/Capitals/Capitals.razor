@@ -1,0 +1,17 @@
+@page "/Capitals"
+
+@namespace BlazorApp.Pages.Capitals
+
+<div class="banner">
+  <h1 class="display-4 jumbo-item">Capitals of Skyrim</h1>      
+  <p class="jumbo-item">These are the nine Capitals of Skyrim:</p>  
+</div>
+
+<div class="container-fluid">
+  @foreach (CapitalModel item in CapitalData)
+  {
+    <div class="cardItem mr-auto ml-auto">
+      <CapitalComponent Capital="@item"></CapitalComponent>  
+    </div>
+    }  
+</div>
