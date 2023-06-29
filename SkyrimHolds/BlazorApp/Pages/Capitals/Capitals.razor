@@ -7,11 +7,13 @@
   <p class="jumbo-item">These are the nine Capitals of Skyrim:</p>  
 </div>
 
-<div class="container-fluid">
+<div class="container-fluid main">
   @foreach (CapitalModel item in CapitalData)
   {
     <div class="cardItem mr-auto ml-auto">
       <CapitalComponent Capital="@item"></CapitalComponent>  
     </div>
-    }  
+  }  
 </div>
+
+<br/>
