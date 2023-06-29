@@ -1,4 +1,4 @@
-# Blazor-Skyrim-Holds
+# Blazor: The Holds and Capitals of Skyrim
 
 <p>Practicing creating a static Blazor Server App with Bootstrap.</p>
 <p>The page uses components and models to list descriptions of the various Holds and Capitals of Skyrim.</p>
