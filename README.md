@@ -1,7 +1,7 @@
 # Blazor-Skyrim-Holds
 
-<p>Practicing creating a static Blazor Server App with Bootstrap. The page uses components and models to list descriptions of the various Holds and Capitals of Skyrim.</p>
-<p>Test test te st test test</p>
+<p>Practicing creating a static Blazor Server App with Bootstrap.</p>
+<p>The page uses components and models to list descriptions of the various Holds and Capitals of Skyrim.</p>
 
 ## Technologies & Languages Uses:
 
