@@ -1,0 +1,120 @@
+/* _content/BlazorApp/Components/CapitalComponent.razor.rz.scp.css */
+.btn[b-pcvj70e0mt] {
+    border-color: black;
+    background-color: #648FAD;
+    color: #292B2F;
+}
+
+.card[b-pcvj70e0mt] {
+    background-color: #BBAA92;
+}
+
+.card-link[b-pcvj70e0mt] {
+    color: #292B2F;
+}
+
+.card-link:hover[b-pcvj70e0mt] {
+    text-decoration: underline;
+    color: #648FAD;
+}
+/* _content/BlazorApp/Components/Coverpage.razor.rz.scp.css */
+/* _content/BlazorApp/Components/HoldComponent.razor.rz.scp.css */
+*[b-v401ud9guk] {
+    color: black;
+}
+
+.card[b-v401ud9guk] {
+    width: 20rem;
+    border-color: #BBAA92;
+}
+
+.btn[b-v401ud9guk] {
+    background-color: #648FAD;
+    color: #292B2F;
+}
+/* _content/BlazorApp/Pages/Capitals/Capitals.razor.rz.scp.css */
+*[b-dfup7ivfyb] {
+    background-color: #292B2F;
+}
+
+.banner[b-dfup7ivfyb] {
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
+
+.main[b-dfup7ivfyb] {
+    padding-bottom: 50px;
+}
+
+.jumbo-item[b-dfup7ivfyb] {
+    color: #BBAA92;
+}
+
+.cardItem[b-dfup7ivfyb] {
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* _content/BlazorApp/Pages/Holds/Holds.razor.rz.scp.css */
+
+*[b-4v21z4o3z7] {
+    background-color: #292B2F;
+}
+
+.banner[b-4v21z4o3z7] {
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
+
+.main[b-4v21z4o3z7] {
+    padding-bottom: 50px;
+}
+
+.jumbo-item[b-4v21z4o3z7] {
+    color: #BBAA92;
+}
+
+.cardItem[b-4v21z4o3z7] {
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* _content/BlazorApp/Pages/Index.razor.rz.scp.css */
+*[b-cawgfizwi4] {
+    color: #292B2F;
+}
+
+.jumbotron[b-cawgfizwi4] {
+    color: white;
+    background-image: url("https://images.ctfassets.net/rporu91m20dc/jZOX9c9IqcwWcuKUG2mY6/47a143d68694bf6b43a20b708c64af8f/data.images.event.221.TundraStreamFULL.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.jumbo-item[b-cawgfizwi4] {
+    background-color: transparent !important;
+    color: #404244;
+}
+/* _content/BlazorApp/Shared/Footer.razor.rz.scp.css */
+.footer[b-p6myxzm3pl] {
+    background-color: #404244;
+    color: #bbaa92;
+    height: 40px;
+}
+/* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
+*[b-3ij3p7wwc4] {
+    background-color: #404244;
+}
+
+/* _content/BlazorApp/Shared/Navbar.razor.rz.scp.css */
+.navbar[b-6vlijaxr9c] {
+    background-color: #292B2F;
+}
+
+.nav-link[b-6vlijaxr9c], .nav-item[b-6vlijaxr9c] {
+    color: #bbaa92 !important;
+}

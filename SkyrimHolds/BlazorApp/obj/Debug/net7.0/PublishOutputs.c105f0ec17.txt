@@ -1,0 +1,7 @@
+/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/bin/Debug/net7.0/publish/BlazorApp
+/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/bin/Debug/net7.0/publish/appsettings.json
+/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.dll
+/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.deps.json
+/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.runtimeconfig.json
+/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/bin/Debug/net7.0/publish/BlazorApp.pdb
