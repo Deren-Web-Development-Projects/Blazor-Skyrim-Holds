@@ -10,4 +10,4 @@
 - C#, CSS, HTML, JS
 
 ---
-<img alt="Skyrim Holds, Capitals" width="25%" height="25%" src="https://raw.githubusercontent.com/Deren-Web-Development-Projects/Blazor-Skyrim-Holds/main/Screenshot.png" />
+![Screenshot](https://raw.githubusercontent.com/Deren-Web-Development-Projects/Blazor-Skyrim-Holds/main/Screenshot.png)
