@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj": {}
+    "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj": {}
   },
   "projects": {
-    "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj": {
+    "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj",
+        "projectUniqueName": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj",
+        "projectPath": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/BlazorApp.csproj",
         "packagesPath": "/Users/deren/.nuget/packages/",
-        "outputPath": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/",
+        "outputPath": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/deren/.nuget/NuGet/NuGet.Config"

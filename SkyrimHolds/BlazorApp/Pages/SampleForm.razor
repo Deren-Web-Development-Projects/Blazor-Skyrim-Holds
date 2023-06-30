@@ -1,0 +1,89 @@
+@page "/sampleform"
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container jumbo-item">
+        <h1 class="display-4 jumbo-item">Sample Form in Blazor</h1>
+        <p class="jumbo-item">Documenting a sample form from a Tim Corey tutorial.</p>
+
+        <EditForm Model="@sample">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="formo">
+                <div class="row my-3">
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <label for="username" class="form-label">
+                                Username
+                                <InputText id="username" class="form-control" @bind-Value="sample.UserName"/>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <label for="password" class="form-label">
+                                Password
+                                <InputText type="password" id="password" class="form-control" @bind-Value="sample.SamplePassword"/>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-3">
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <label for="SampleInt" class="form-label">
+                                Sample Int
+                                <InputNumber id="SampleInt" class="form-control" @bind-Value="sample.SampleInt"/>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <label for="SampleDouble" class="form-label">
+                                Sample Double
+                                <InputNumber id="SampleDouble" class="form-control" @bind-Value="sample.SampleDouble"/>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-3">
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <label for="SampleBool" class="form-label">
+                                Sample Boolean
+                                <InputCheckbox id="SampleBool" class="form-control" @bind-Value="sample.SampleBool"/>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-3">
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <label for="SampleDate" class="form-label">
+                                Sample Date
+                                <InputDate id="SampleDate" class="form-control" @bind-Value="sample.SampleDate"/>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <label for="SampleDrop" class="form-label">
+                                Sample Drop Down
+                                <InputSelect id="SampleDrop" class="form-control" @bind-Value="sample.DropDownValue">
+                                    <option value="">Select Item...</option>
+                                    <option value="1">Simple Option</option>
+                                    <option value="2">Complex Option</option>
+                                    <option value="3">Very Complex</option>
+                                </InputSelect>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                <button class="btn btn-primary" type="submit">Submit</button>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private SampleFormModel sample = new SampleFormModel();
+}

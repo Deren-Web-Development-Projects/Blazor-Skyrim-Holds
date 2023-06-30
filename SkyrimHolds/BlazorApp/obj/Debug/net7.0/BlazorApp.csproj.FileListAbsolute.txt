@@ -76,3 +76,4 @@
 /Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/BlazorApp.pdb
 /Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/BlazorApp.genruntimeconfig.cache
 /Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/ref/BlazorApp.dll
+/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/Pages/SampleForm.razor.rz.scp.css

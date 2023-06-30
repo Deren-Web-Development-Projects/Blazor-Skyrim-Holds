@@ -1,115 +1,115 @@
 {
   "Files": [
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
       "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/.DS_Store",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/JumbotronScript.js",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/JumbotronScript.js",
       "PackagePath": "staticwebassets/JumbotronScript.js"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/css/site.css",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/.DS_Store",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/.DS_Store",
       "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Dawnstar.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Dawnstar.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Dawnstar.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Falkreath.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Falkreath.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Falkreath.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Markarth.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Markarth.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Markarth.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Morthal.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Morthal.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Morthal.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Riften.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Riften.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Riften.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Solitude.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Solitude.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Solitude.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Whiterun.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Whiterun.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Whiterun.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Windhelm.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Windhelm.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Windhelm.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Winterhold.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Capitals/Winterhold.jpg",
       "PackagePath": "staticwebassets/images/Capitals/Winterhold.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Eastmarch.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Eastmarch.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-Eastmarch.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Falkreath.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Falkreath.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-Falkreath.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Haafingar.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Haafingar.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-Haafingar.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Hjaalmarch.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Hjaalmarch.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-Hjaalmarch.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-ThePale.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-ThePale.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-ThePale.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-TheReach.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-TheReach.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-TheReach.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-TheRift.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-TheRift.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-TheRift.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Whiterun.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Whiterun.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-Whiterun.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Winterhold.jpg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Holds/Hold-Winterhold.jpg",
       "PackagePath": "staticwebassets/images/Holds/Hold-Winterhold.jpg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Marker.png",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/Marker.png",
       "PackagePath": "staticwebassets/images/Marker.png"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark-white.png",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark-white.png",
       "PackagePath": "staticwebassets/images/github-mark-white.png"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark-white.svg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark-white.svg",
       "PackagePath": "staticwebassets/images/github-mark-white.svg"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark.png",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark.png",
       "PackagePath": "staticwebassets/images/github-mark.png"
     },
     {
-      "Id": "/Users/deren/Documents/LocalWebDevCopy/SkyrimHoldsCapitals/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark.svg",
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/images/github-mark.svg",
       "PackagePath": "staticwebassets/images/github-mark.svg"
     },
     {

@@ -1,0 +1,26 @@
+* {
+    color: #292B2F;
+}
+
+.jumbotron {
+    color: white;
+    background-image: url("https://images.ctfassets.net/rporu91m20dc/jZOX9c9IqcwWcuKUG2mY6/47a143d68694bf6b43a20b708c64af8f/data.images.event.221.TundraStreamFULL.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.jumbo-item {
+    background-color: transparent !important;
+    color: #404244;
+}
+
+.formo {
+    background-color: rgb(200,200,200);
+    border: 2px solid black;
+    width: 100%;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
