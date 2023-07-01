@@ -20,7 +20,12 @@
     background-color: rgb(200,200,200);
     border: 2px solid black;
     width: 100%;
+    margin-top: 25px;
     padding-left: 25px;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+.spacer[b-5a11tux8m4] {
+    margin-top: 25px;
 }

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/JumbotronScript.js"
     },
     {
+      "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/ResetDropDown.js",
+      "PackagePath": "staticwebassets/ResetDropDown.js"
+    },
+    {
       "Id": "/Users/deren/Documents/LocalReposWeb/SkyrimHolds/Blazor-Skyrim-Holds/SkyrimHolds/BlazorApp/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

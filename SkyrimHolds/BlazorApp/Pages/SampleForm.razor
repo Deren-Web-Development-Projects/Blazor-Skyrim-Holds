@@ -1,5 +1,9 @@
 @page "/sampleform"
 
+@* Allows for talking to JavaScript from within C#: *@
+@using Microsoft.JSInterop
+@inject IJSRuntime JSRuntime
+
 <div class="jumbotron jumbotron-fluid">
     <div class="container jumbo-item">
         <h1 class="display-4 jumbo-item">Sample Form in Blazor</h1>
@@ -81,9 +85,41 @@
                 <button class="btn btn-primary" type="submit">Submit</button>
             </div>
         </EditForm>
+        <EditForm Model="@cascade">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="formo">
+                <p>Cascading Drop Down Demonstration</p>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            <select @onchange="HandleFirstDropDownChange" class="w-100">
+                                <option value="">Select Media Type...</option>
+                                @foreach (var m in mediaTypes)
+                                {
+                                    <option value="@m.Key">@m.Value</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="form-outline">
+                            @if (subTypes.Count > 0)
+                            {
+                                <select id="secondDropDown" @onchange="HandleSecondDropDownChange" class="w-100 spacer">
+                                    <option value="">Select SubType...</option>
+                                    @foreach (var s in subTypes)
+                                    {
+                                        <option value="@s.Key">@s.Value</option>
+                                    }
+                                </select>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </EditForm>
     </div>
 </div>
-
-@code {
-    private SampleFormModel sample = new SampleFormModel();
-}
